@@ -14,7 +14,6 @@ namespace DrawTextTest
     {
         static void Main(string[] args)
         {
-            Console.OutputEncoding = System.Text.Encoding.UTF8;
             var Regions = new List<Region>();
             Console.WriteLine("Hello World!");
 
